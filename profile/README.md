@@ -4,9 +4,9 @@
 <br>
 🟢<b>vorinvyd.github.io</b> - 3.4.1
 <br>
-🟢<b>API</b> - 3.4.1
+🟢<b>API</b> - 3.4.2
 <br>
-🟢<b>servers</b> - 3.4.2
+🟢<b>servers</b> - 3.4.3
 <br>
 🟢<b>reviews</b> - 3.4.1
 <br>
