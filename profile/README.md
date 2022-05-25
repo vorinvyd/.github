@@ -6,7 +6,7 @@
 <br>
 🟢<b>API</b> - 3.4.4
 <br>
-🟢<b>servers</b> - 3.4.4
+🟢<b>servers</b> - 3.4.5
 <br>
 🟢<b>reviews</b> - 3.4.1
 <br>
